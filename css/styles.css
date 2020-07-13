@@ -1,0 +1,13 @@
+header {
+    text-align: center; 
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border: black solid;
+    border-radius: 50px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+main div {
+    display: inline-block;
+    padding-right: 100px;
+}
